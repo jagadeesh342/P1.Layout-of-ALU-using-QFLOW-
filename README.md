@@ -59,3 +59,21 @@ Detail router routes connections between cells.
 ### Magic : 
 VLSI layout tool for chip design.
 
+
+
+
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/ALU%20synthesis%20using%20YOSYS.png)
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Layouts%20of%20ALU.jpg)
+
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Placement.png)
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Routing.png)
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Simulation%20using%20GTKWAVE.png)
+
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Layout%20of%20ALU%20in%20MAGIC.png)
+
+
