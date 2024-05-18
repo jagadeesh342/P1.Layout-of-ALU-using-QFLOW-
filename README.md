@@ -29,16 +29,17 @@ Perform floorplanning, placement and routing to generate the physical layout.
 
 ' Optimize the layout for performance, area and power. '
 
-## Tools and Technologies:-       # Verilog 
+## Tools and Technologies:-    
+- # Verilog 
 
-    Hardware description language for RTL design
-### Iverilog :
-Simulates and verifies digital circuits.
-### Gtkwave : 
-Waveform viewer visualizes simulation results.
+      Hardware description language for RTL design
+      ### Iverilog :
+      Simulates and verifies digital circuits.
+      ### Gtkwave : 
+      Waveform viewer visualizes simulation results.
 -   # Qflow : 
-Open-source digital synthesis flow
-### Yosys : 
+        Open-source digital synthesis flow
+        ### Yosys : 
 RTL synthesis tool converts Verilog to gate-level netlists.
 ### Graywolf : 
 Placement tool arranges cells in a chip layout.
