@@ -30,8 +30,7 @@ This project aims to design and implement the layout of an Arithmetic Logic Unit
 - Verify the  functionality of the ALU layout through simulation
 - Synthesize the RTL code using Qflow synthesis tool Yosys.
 - Perform floorplanning, placement and routing to generate the physical layout.
-
--Optimize the layout for performance, area and power.
+- Optimize the layout for performance, area and power.
 
 
 
@@ -48,32 +47,24 @@ This project aims to design and implement the layout of an Arithmetic Logic Unit
 Simulates and verifies digital circuits.
  ### Gtkwave : 
  Waveform viewer visualizes simulation results.
+ ![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Simulation%20using%20GTKWAVE.png)
+
+ 
 -    # Qflow : 
   Open-source digital synthesis flow
  ### Yosys : 
 RTL synthesis tool converts Verilog to gate-level netlists.
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/ALU%20synthesis%20using%20YOSYS.png)
 ### Graywolf : 
 Placement tool arranges cells in a chip layout.
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Placement.png)
 ### Qrouter :
 Detail router routes connections between cells.
+![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Routing.png)
 ### Magic : 
 VLSI layout tool for chip design.
-
-
-
-
-
-![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/ALU%20synthesis%20using%20YOSYS.png)
-
 ![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Layouts%20of%20ALU.jpg)
 
 
-![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Placement.png)
-
-![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Routing.png)
-
-![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Simulation%20using%20GTKWAVE.png)
-
-![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Layout%20of%20ALU%20in%20MAGIC.png)
 
 
