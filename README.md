@@ -3,10 +3,6 @@
 
 # Simulation of ALU in GTKWAVE
 
-Verilog : Hardware description language for RTL design
-Iverilog : Simulates and verifies digital circuits.
-‌Gtkwave : Waveform viewer visualizes simulation results.
-‌Qflow : Open-source digital synthesis flow
 
 
 # Open source tool QFLOW 
@@ -19,15 +15,11 @@ This project aims to design and implement the layout of an Arithmetic Logic Unit
 
 ## Key Objectives:
 
-<section>Design RTL description of the ALU functionality.</section>
----
-_____________
-Verify the  functionality of the ALU layout through simulation
-
-<section>Synthesize the RTL code using Qflow synthesis tool Yosys.</section>
-Perform floorplanning, placement and routing to generate the physical layout.
-
-' Optimize the layout for performance, area and power. '
+- Design RTL description of the ALU functionality.
+- Verify the  functionality of the ALU layout through simulation
+- Synthesize the RTL code using Qflow synthesis tool Yosys.
+- Perform floorplanning, placement and routing to generate the physical layout.
+-Optimize the layout for performance, area and power.
 
 ## Tools and Technologies:-    
 -    # Verilog :
