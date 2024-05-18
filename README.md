@@ -10,10 +10,7 @@ Iverilog : Simulates and verifies digital circuits.
 
 
 # Open source tool QFLOW 
-this the text
-**with stars**  
-__with dashes__
--jhwjhdkwekww
+
 
 
 
@@ -33,12 +30,14 @@ Perform floorplanning, placement and routing to generate the physical layout.
 ' Optimize the layout for performance, area and power. '
 
 ## Tools and Technologies:
-- ## Verilog : Hardware description language for RTL design
+- # Verilog 
+
+    Hardware description language for RTL design
 ### Iverilog :
 Simulates and verifies digital circuits.
 ### Gtkwave : 
 Waveform viewer visualizes simulation results.
-- ## Qflow : 
+- # Qflow : 
 Open-source digital synthesis flow
 ### Yosys : 
 RTL synthesis tool converts Verilog to gate-level netlists.
