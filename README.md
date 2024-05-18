@@ -4,6 +4,26 @@
 ## Description:
 This project aims to design and implement the layout of an Arithmetic Logic Unit (ALU) using Qflow, an open-source digital synthesis flow based on open-source tools. The ALU is a fundamental component of many digital systems, performing arithmetic and logical operations on binary numbers. By leveraging Qflow, the project explores the process of RTL to GDSII (Register Transfer Level to Graphic Data System II) synthesis, including synthesis, placement, routing, and layout. Through this project, the aim is to gain insights into digital design methodologies, physical design automation, and the practical aspects of implementing complex digital circuits.
 
+
+
+
+
+## Tools and Technologies:-  
+
+## Verilog
+- Iverilog (verilog file compiler)
+- GTKWave (for viewing waveforms)
+  
+## Qflow
+- Yosys (for synthesis)
+- Graywolf (for placement)
+- QRouter (for routing)
+- Magic (for layout visualization)
+
+
+
+
+
 ## Key Objectives:
 
 - Design RTL description of the ALU functionality.
@@ -15,7 +35,13 @@ This project aims to design and implement the layout of an Arithmetic Logic Unit
 
 
 
-## Tools and Technologies:-    
+
+
+
+
+
+
+
 -    # Verilog :
   Hardware description language for RTL design
  ### Iverilog :
