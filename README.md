@@ -41,7 +41,7 @@ This project aims to design and implement the layout of an Arithmetic Logic Unit
 
 # Approach 
 
--    # Verilog 
+# 1.Verilog 
   Hardware description language for RTL design
  ### Iverilog :
 Simulates and verifies digital circuits.
@@ -50,7 +50,7 @@ Simulates and verifies digital circuits.
  ![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Simulation%20using%20GTKWAVE.png)
 
  
--    # Qflow 
+ # 2.Qflow 
   Open-source digital synthesis flow
  ### Yosys : 
 RTL synthesis tool converts Verilog to gate-level netlists.
@@ -66,5 +66,7 @@ VLSI layout tool for chip design.
 ![pro](https://github.com/jagadeesh342/P1.Layout-of-ALU-using-QFLOW-/blob/main/Layouts%20of%20ALU.jpg)
 
 
+# Summary 
 
+Successfully we created a layout for the ALU that meets specified performance metrics and design constraints. 
 
